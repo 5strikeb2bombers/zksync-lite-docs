@@ -1,0 +1,37 @@
+# zkSync Project
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![zkSync](https://img.shields.io/badge/built%20with-zkSync-4E76A8)](https://zksync.io/)
+
+## Overview
+
+This project showcases various functionalities and use cases related to zkSync, a layer-2 scaling solution for Ethereum.
+
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Prerequisites
+
+Make sure you have the following prerequisites installed:
+
+- [Node.js](https://nodejs.org/)
+- [Truffle](https://www.trufflesuite.com/truffle)
+- [zkSync SDK](https://github.com/matter-labs/zksync)
+
+## Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/zksync-project.git
+
+# Change directory
+cd zksync-project
+
+# Install dependencies
+npm install
